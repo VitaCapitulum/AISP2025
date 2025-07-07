@@ -172,6 +172,7 @@ body {
 .slide-img {
 	background-size:100% auto;
 	background-position:100% 40%;
+	background-repeat: no-repeat;
 }
 @keyframes fadeIn {
 	0% {
