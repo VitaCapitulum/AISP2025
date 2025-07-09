@@ -269,8 +269,8 @@ body {
 }
 .accomo__img-container {
   position: relative;
-  min-width: 17rem;
-  min-height: 12rem;
+  min-width: 15rem;
+  min-height: 10rem;
   /* margin-right:1rem; */
 }
 @media screen and (min-width: 850px) {
@@ -287,8 +287,8 @@ body {
 
   .accomo__img-container {
     position: relative;
-    min-width: 17rem;
-    min-height: 12rem;
+    min-width: 15rem;
+    min-height: 10rem;
     /* margin-right:1rem; */
   }
 }
