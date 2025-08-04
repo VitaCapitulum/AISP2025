@@ -104,3 +104,15 @@ window.onload = () => {
 // doSlideshow();
 
 };
+
+// Swiper background image slider
+const swiper = new Swiper('.background-slider', {
+  loop: true,
+  autoplay: {
+    delay: 5000,
+    disableOnInteraction: false
+  },
+  effect: 'fade',
+  speed: 1000
+});
+
