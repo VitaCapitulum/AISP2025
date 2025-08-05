@@ -399,6 +399,13 @@ body {
 				text-align: center;
 	}
 }
+
+.notice-link {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 /* ======================================== Board ========================================*/
 .board__container {
 	display:flex;
